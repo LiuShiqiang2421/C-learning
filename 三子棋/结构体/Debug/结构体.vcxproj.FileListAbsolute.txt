@@ -1,2 +1,0 @@
-D:\Code\C\结构体\Debug\结构体.exe
-D:\Code\C\结构体\Debug\结构体.pdb
