@@ -1,0 +1,2 @@
+D:\Code\C\DebugDemo\x64\Debug\DebugDemo.exe
+D:\Code\C\DebugDemo\x64\Debug\DebugDemo.pdb
